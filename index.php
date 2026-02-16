@@ -1,4 +1,5 @@
 <?php
+// Главная страница музея - версия для теста git pull
 require_once __DIR__ . '/../src/config/database.php';
 require_once __DIR__ . '/../src/models/VeteranModel.php';
 
