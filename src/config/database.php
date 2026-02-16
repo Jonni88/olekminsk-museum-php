@@ -3,13 +3,13 @@
 // НА БЕГЕТЕ: создай базу в панели управления и впиши данные здесь
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'olekminsk_museum');
-define('DB_USER', 'root');  // На Бегете будет другой
-define('DB_PASS', '');       // На Бегете будет пароль
+define('DB_NAME', 'jonni1988_museum');  // ← ТВОЯ БАЗА
+define('DB_USER', 'jonni1988_museum');  // ← Обычно совпадает с именем базы на Бегете
+define('DB_PASS', 'ТВОЙ_ПАРОЛЬ_ОТ_БАЗЫ');  // ← ПАРОЛЬ КОТОРЫЙ ЗАДАЛ ПРИ СОЗДАНИИ
 
 // Настройки сайта
 define('SITE_NAME', 'Память Олёкминского края');
-define('SITE_URL', 'https://museum-olekminsk.ru'); // Заменишь на свой домен
+define('SITE_URL', 'https://pamyatj.moyaolekma.rf'); // ← ТВОЙ ДОМЕН
 
 // Telegram бот для уведомлений (опционально)
 define('TG_BOT_TOKEN', '');
