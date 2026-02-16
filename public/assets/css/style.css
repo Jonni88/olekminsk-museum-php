@@ -238,14 +238,14 @@ body {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, var(--color-primary) 0%, #b8860b 100%);
-    color: #1a1a1a;
+    background: linear-gradient(135deg, #dc3545 0%, #a71d2a 100%);
+    color: white;
     border: none;
 }
 
 .btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 20px rgba(212, 175, 55, 0.4);
+    box-shadow: 0 5px 20px rgba(220, 53, 69, 0.4);
 }
 
 .btn-outline {
